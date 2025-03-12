@@ -4,7 +4,7 @@
 
 ## Safety, Redefined.
 
-SIGSA EMERGENCY SYSTEMS (Does not affliated to another SIGSA company in México!) is a Division under Ausinter Technologies Co., Ltd in Shenzhen, China.
+SIGSA EMERGENCY SYSTEMS (Does not affliated to another SIGSA (Sistemas de Información Geográfica, S.A. de C.V.) company in México!) is a Division under Ausinter Technologies Co., Ltd in Shenzhen, China.
 
 We specialized in building robust and reliable signal and auditory warning devices and systems for our first responders.
 
