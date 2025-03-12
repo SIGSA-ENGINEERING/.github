@@ -1,4 +1,6 @@
-# SIGSA 信飒 - 智造卓越
+<img width=220 alt="SIGSA Emergency Systems" src="https://github.com/SIGSA-ENGINEERING/.github/blob/main/Profile/Images/Asset%202SIG3.png">
+
+# 信飒 - 智造卓越
 
 ## Safety, Redefined.
 
